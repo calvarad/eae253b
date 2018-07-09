@@ -13,7 +13,7 @@ Office hours ayudante: TBD
 Link al programa: 
 
 ## Recursos
-Piazza: https://piazza.com/class/jh7oeafx4fa3lp
+Piazza: https://piazza.com/class/jh7oeafx4fa3lp  
 Katis: https://open.kattis.com/
 
 ## Algunos tips
