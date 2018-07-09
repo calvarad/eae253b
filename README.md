@@ -1,4 +1,6 @@
-# eae253b
+# Economía y Ciencia de Datos
+
+Este repositorio contiene material de curso EAE253B "Economía y Ciencia de Datos", Universidad Católica de Chile, del 2do semestre de 2018.
 
 ## Algunos tips
 ### Uso de GIT
