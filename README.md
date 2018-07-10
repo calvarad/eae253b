@@ -6,8 +6,11 @@ Profesor: Carlos Alvarado
 Horario clase: M - J // 5.00pm a 6.20pm  
 Office hours: M - J // 6.20pm (o por email)  
 Email: cealvara@uc.cl  
+
 Ayudante: TBD  
+Horario ayudantía: W // 5.00pm a 6.20pm  
 Office hours ayudante: TBD  
+Email: TBD  
 
 ## Programa
 
@@ -26,7 +29,9 @@ Kattis: https://open.kattis.com/
 
 Ref: https://stackoverflow.com/questions/11693074/git-credential-cache-is-not-a-git-command
 
-Ref (uso general): https://git-scm.com/docs/git-credential-cache
+-- Guardar contraseña (otros sistemas)
+
+Ref: https://git-scm.com/docs/git-credential-cache
 
 ### Entendiendo función "print"
 
