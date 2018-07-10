@@ -20,6 +20,12 @@ Link al programa:
 Piazza: https://piazza.com/class/jh7oeafx4fa3lp  
 Kattis: https://open.kattis.com/
 
+## Proyecto
+
+Durante el semestre se desarrollará un proyecto de análisis de datos utilizando diversas herramientas aprendidas en el curso.
+
+[Descripción del proyecto](Documentos/README.md)
+
 ## Algunos tips
 ### Uso de GIT
 
