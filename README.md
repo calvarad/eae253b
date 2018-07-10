@@ -12,10 +12,6 @@ Horario ayudantía: W // 5.00pm a 6.20pm
 Office hours ayudante: TBD  
 Email: TBD  
 
-## Programa
-
-Link al programa: 
-
 ## Evaluaciones
 
 TBD
@@ -24,7 +20,7 @@ TBD
 
 Durante el semestre se desarrollará un proyecto de análisis de datos utilizando diversas herramientas aprendidas en el curso.
 
-[Descripción del proyecto](Documentos/README.md)
+[Descripción del proyecto](Documentos/PROYECTO.md)
 
 ## Recursos
 
