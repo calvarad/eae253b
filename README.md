@@ -22,7 +22,7 @@ Durante el semestre se desarrollará un proyecto de análisis de datos utilizand
 
 [Descripción del proyecto](Documentos/PROYECTO.md)
 
-## Recursos
+## Recursos externos
 
 Piazza: https://piazza.com/class/jh7oeafx4fa3lp  
 Kattis: https://open.kattis.com/  
