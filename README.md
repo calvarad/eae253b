@@ -7,10 +7,10 @@ Horario clase: M - J // 5.00pm a 6.20pm
 Office hours: M - J // 6.20pm (o por email)  
 Email: cealvara@uc.cl  
 
-Ayudante: TBD  
+Ayudante: Pablo González Valdivia  
 Horario ayudantía: W // 5.00pm a 6.20pm  
 Office hours ayudante: TBD  
-Email: TBD  
+Email: pagonzalez20@uc.cl  
 
 ## Evaluaciones
 
