@@ -12,9 +12,9 @@ Horario ayudantía: W // 5.00pm a 6.20pm
 Office hours ayudante: TBD  
 Email: pagonzalez20@uc.cl  
 
-## Evaluaciones
+## Programa
 
-TBD
+[Programa](Documentos/PROGRAMA.md)
 
 ## Proyecto
 
