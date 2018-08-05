@@ -20,7 +20,7 @@ El proyecto será evaluado en las siguientes dimensiones:
 - 09/27 : Propuesta formal
 - **10/04 : Presentaciones de primera versión**
 - 11/07 : Reuniones cortas
-- **11/20 : Presentaciones finales**
+- **11/30 : Presentaciones finales**
 
 ### Entregables (TBD)
 

@@ -1,4 +1,5 @@
-# Programa
+# Programa EAE253B
+## 2do Semestre 2018
 
 ## Descripción del curso
 
@@ -33,7 +34,8 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 | 13 (31 octubre)           | Prueba escrita (miércoles 31, hora A)         | W31: Prueba Escrita |
 | 14 (6 y 8 noviembre)      | Machine Learning                              | *W7: Reuniones cortas* |
 | 15 (13 y 15 noviembre)    | POR DEFINIR                                   | |
-| 16 (20 y 22 noviembre)    | Resumen y presentaciones                      | **M20: Presentaciones** |
+| 16 (20 y 22 noviembre)    | POR DEFINIR                                   | |
+| 17 (30 noviembre)         | Presentaciones                                | **Presentaciones** |
 
 ## Evaluaciones
 
