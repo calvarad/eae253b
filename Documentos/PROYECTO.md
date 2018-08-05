@@ -11,7 +11,7 @@ El proyecto será evaluado en las siguientes dimensiones:
 - creatividad, respecto de la fuente de datos a utilizar y/o el tipo de análisis a realizar
 - capacidad de actualizar el análisis en el tiempo
 - replicabilidad del análisis; nivel de automatización; calidad en la programación
-- impacto económico o relevancia del proyecto
+- impacto económico o relevancia del tema escogido
 
 ### Fechas críticas
 
