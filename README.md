@@ -9,7 +9,7 @@ Email: cealvara@uc.cl
 
 Ayudante: Pablo González Valdivia  
 Horario ayudantía: W // 5.00pm a 6.20pm  
-Office hours ayudante: TBD  
+Office hours ayudante: Coodinar por email  
 Email: pagonzalez20@uc.cl  
 
 ## Programa
@@ -25,3 +25,5 @@ Durante el semestre se desarrollará un proyecto de análisis de datos utilizand
 ## Recursos externos
 
 Kattis: https://open.kattis.com/  
+Stack Overflow: https://stackoverflow.com/
+Anaconda: https://www.anaconda.com/downloads
