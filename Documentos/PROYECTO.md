@@ -1,6 +1,6 @@
 # Proyecto final
 
-### Objetivo
+### I - Objetivo
 
 Cada grupo será responsable de crear un "sistema" ("conjunto de rutinas", "procedimientos") que permita presentar algún análisis de información que sea de interés del grupo. Se sugiere usar como información base el Censo de 2017 y/o la encuesta Casen de 2015 o 2017 (fecha probable de publicación Casen 2017: Septiembre 2018), e incorporar otra información de interés del grupo. 
 
@@ -14,7 +14,7 @@ El proyecto se debe hacer cargo, al menos, de las siguientes etapas del análisi
 
 Los grupos estarán conformados por un máximo de 3 personas. 
 
-### Evaluación
+### II - Evaluación
 
 El proyecto será evaluado en las siguientes dimensiones:
 - claridad y objetivo del sistema
@@ -23,7 +23,7 @@ El proyecto será evaluado en las siguientes dimensiones:
 - replicabilidad del análisis; nivel de automatización; calidad en la programación
 - impacto económico o relevancia del tema escogido
 
-### Fechas críticas
+### III - Fechas críticas
 
 - 08/23 : Borrador de propuesta
 - 09/12 : Reuniones cortas (sem. pruebas)
@@ -32,7 +32,7 @@ El proyecto será evaluado en las siguientes dimensiones:
 - 11/07 : Reuniones cortas
 - **11/30 : Presentaciones finales**
 
-### Entregables (por definir)
+### IV - Entregables
 
 ##### (08/23): Borrador de propuesta
 
@@ -54,32 +54,36 @@ Esta versión deberá describir elementos tales como:
 
 ##### (10/04): Presentación de primera versión
 
-El grupo deberá presentar, en no más de 10 minutos, el proyecto al curso para recibir feedback del resto de alumnos.
+El grupo deberá presentar el proyecto al curso para recibir feedback del resto de alumnos.
 
 ##### (11/30): Presentaciones finales
 
-El grupo deberá presentar, en no más de 15 minutos, las principales características del sistema y las conclusiones del mismo. Por ejemplo, deberá referirse a:
+El grupo deberá presentar las principales características del sistema y las conclusiones del análisis. Por ejemplo, deberá referirse a:
 - Bases de datos relevantes y sistema de carga / almacenamiento
 - Estrategias para almacenar y/o procesar los datos
 - Conclusiones del análisis de los datos y relevancia económica
 - Posibles mejoras o extensiones al sistema
 - Aprendizajes del proceso
 
-Además de la presentación, deberá entregar un informe con los detalles del proyecto, junto con el código y bases de datos asociadas.
+Además de la presentación, en esta fecha se deberá entregar un informe final con los detalles del proyecto, junto con el código y bases de datos asociadas (entregar CD al final de la presentación).
 
-### Ideas de otras fuentes de información
+### V - Sugerencias
 
-- Municipalidades
+**Ideas de otras fuentes de información**
+
+- Otros Censos o encuestas (e.g. CEP, EPS; EFH)
 - Prensa o redes sociales
 - Entidades gubernamentales
 - Congreso
-- Otros Censos o encuestas (e.g. CEP, EPS; EFH)
 
-### Algunas ideas de tópicos posibles
+**Algunas ideas de tópicos posibles**
 
 - Migración
 - Educación
+- Movilidad social
 - Análisis coyuntura macro
 - Predicción inflación
+- Comercio internacional
+- Ley de Lobby
 - Estudio spread acciones
 - Análisis de sentimiento

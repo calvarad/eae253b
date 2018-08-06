@@ -25,5 +25,5 @@ Durante el semestre se desarrollará un proyecto de análisis de datos utilizand
 ## Recursos externos
 
 Kattis: https://open.kattis.com/  
-Stack Overflow: https://stackoverflow.com/
-Anaconda: https://www.anaconda.com/downloads
+Stack Overflow: https://stackoverflow.com/  
+Anaconda: https://www.anaconda.com/downloads  
