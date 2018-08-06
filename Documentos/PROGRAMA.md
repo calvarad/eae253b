@@ -51,21 +51,27 @@ Se evaluará contenido del curso hasta la clase del 23 de octubre.
 Habrán 4 tareas de programación y análisis de datos. Las 3 primeras serán INDIVIDUALES, mientras que la cuarta se podrá realizar en parejas. Cada alumno podrá, como máximo, retrasarse 2 días en la entrega de tareas.
 
 
-## Referencias obligatorias
-**Semana 1**
-- Wing, Jeannette M. (2016). “[Computational Thinking](http://www.cs.cmu.edu/~./15110-s13/Wing06-ct.pdf)”. Communications of the ACM. March 2006/Vol. 49, No. 3
+## Lecturas obligatorias
+**Semana 2**
+- Wing, Jeannette M. (2006). “[Computational Thinking](http://www.cs.cmu.edu/~./15110-s13/Wing06-ct.pdf)”. Communications of the ACM. March 2006/Vol. 49, No. 3
 
-**Semana 3**
+**Semana 4**
 - Einav; Jonathan Levin (2014). “[Economics in the age of big data](http://science.sciencemag.org/content/346/6210/1243089.full)”. Science  07 Nov 2014, Vol. 346, Issue 6210.
 
-**Semana 5**
+**Semana 6**
 - Chang and Li (2015) “[Is Economics Research Replicable? Sixty Published Papers from Thirteen Journals Say ”Usually Not”](https://www.federalreserve.gov/econresdata/feds/2015/files/2015083pap.pdf)”. Finance and Economics Discussion Series 2015-083. Washington: Board of Governors of the Federal Reserve System.
 
-**Semana 10**
+**Semana 7**
+- Fundamentals of Database Systems (Elmasri, Navathe), Ch. 1 y 2
+
+**Semana 8**
+- Fundamentals of Database Systems (Elmasri, Navathe), Ch. 3 y 4
+
+**Semana 12**
 - Varian, Hal R. (2014). "[Big Data: New Tricks for Econometrics](http://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)." Journal of Economic Perspectives, 28 (2): 3-28.
 
-## Referencias optativas
-- Autor, David H. (2015). "Why Are There Still So Many Jobs? The History and Future of Workplace Automation." Journal of Economic Perspectives, 29 (3): 3-30.
-- Donaldson, Dave, and Adam Storeygard. (2016). "The View from Above: Applications of Satellite Data in Economics." Journal of Economic Perspectives, 30 (4): 171-98.
-- Mullainathan and Spiess (2017) “Machine Learning: An Applied Econometric Approach”. Journal of Economic Perspectives—Volume 31, Number 2—Spring 2017—Pages 87–106
+## Lecturas optativas
+- Autor, David H. (2015). "[Why Are There Still So Many Jobs? The History and Future of Workplace Automation](https://economics.mit.edu/files/11563)." Journal of Economic Perspectives, 29 (3): 3-30.
+- Donaldson, Dave, and Adam Storeygard. (2016). "[The View from Above: Applications of Satellite Data in Economics](http://dave-donaldson.com/wp-content/uploads/2016/10/Donaldson_Storeygard_JEP.pdf)." Journal of Economic Perspectives, 30 (4): 171-98.
+- Mullainathan and Spiess (2017) “[Machine Learning: An Applied Econometric Approach](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.87)”. Journal of Economic Perspectives—Volume 31, Number 2—Spring 2017—Pages 87–106
 - Machine Learning: The Art and Science of Algorithms that Make Sense of Data. Peter Flach
