@@ -52,10 +52,17 @@ Habrán 4 tareas de programación y análisis de datos. Las 3 primeras serán IN
 
 
 ## Referencias obligatorias
-- Chang and Li (2015) “Is Economics Research Replicable? Sixty Published Papers from Thirteen Journals Say ”Usually Not””. Finance and Economics Discussion Series 2015-083. Washington: Board of Governors of the Federal Reserve System.
+**Semana 1**
+- Wing, Jeannette M. (2016). “[Computational Thinking](http://www.cs.cmu.edu/~./15110-s13/Wing06-ct.pdf)”. Communications of the ACM. March 2006/Vol. 49, No. 3
+
+**Semana 3**
 - Einav; Jonathan Levin (2014). “Economics in the age of big data”. Science  07 Nov 2014, Vol. 346, Issue 6210.
-- Varian, Hal R. (2014). "Big Data: New Tricks for Econometrics." Journal of Economic Perspectives, 28 (2): 3-28.
-- Wing, Jeannette M. (2016). “Computational Thinking”. Communications of the ACM. March 2006/Vol. 49, No. 3
+
+**Semana 5**
+- Chang and Li (2015) “Is Economics Research Replicable? Sixty Published Papers from Thirteen Journals Say ”Usually Not””. Finance and Economics Discussion Series 2015-083. Washington: Board of Governors of the Federal Reserve System.
+
+**Semana 10**
+- Varian, Hal R. (2014). "[Big Data: New Tricks for Econometrics](http://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)." Journal of Economic Perspectives, 28 (2): 3-28.
 
 ## Referencias optativas
 - Autor, David H. (2015). "Why Are There Still So Many Jobs? The History and Future of Workplace Automation." Journal of Economic Perspectives, 29 (3): 3-30.
