@@ -56,10 +56,10 @@ Habrán 4 tareas de programación y análisis de datos. Las 3 primeras serán IN
 - Wing, Jeannette M. (2016). “[Computational Thinking](http://www.cs.cmu.edu/~./15110-s13/Wing06-ct.pdf)”. Communications of the ACM. March 2006/Vol. 49, No. 3
 
 **Semana 3**
-- Einav; Jonathan Levin (2014). “Economics in the age of big data”. Science  07 Nov 2014, Vol. 346, Issue 6210.
+- Einav; Jonathan Levin (2014). “[Economics in the age of big data](http://science.sciencemag.org/content/346/6210/1243089.full)”. Science  07 Nov 2014, Vol. 346, Issue 6210.
 
 **Semana 5**
-- Chang and Li (2015) “Is Economics Research Replicable? Sixty Published Papers from Thirteen Journals Say ”Usually Not””. Finance and Economics Discussion Series 2015-083. Washington: Board of Governors of the Federal Reserve System.
+- Chang and Li (2015) “[Is Economics Research Replicable? Sixty Published Papers from Thirteen Journals Say ”Usually Not”](https://www.federalreserve.gov/econresdata/feds/2015/files/2015083pap.pdf)”. Finance and Economics Discussion Series 2015-083. Washington: Board of Governors of the Federal Reserve System.
 
 **Semana 10**
 - Varian, Hal R. (2014). "[Big Data: New Tricks for Econometrics](http://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)." Journal of Economic Perspectives, 28 (2): 3-28.
