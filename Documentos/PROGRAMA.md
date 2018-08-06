@@ -69,6 +69,8 @@ Habrán 4 tareas de programación y análisis de datos. Las 3 primeras serán IN
 **Semana 12**
 - Varian, Hal R. (2014). "[Big Data: New Tricks for Econometrics](http://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)." Journal of Economic Perspectives, 28 (2): 3-28.
 
+* Otras lecturas por definir
+
 ## Lecturas optativas
 - Autor, David H. (2015). "[Why Are There Still So Many Jobs? The History and Future of Workplace Automation](https://economics.mit.edu/files/11563)." Journal of Economic Perspectives, 29 (3): 3-30.
 - Donaldson, Dave, and Adam Storeygard. (2016). "[The View from Above: Applications of Satellite Data in Economics](http://dave-donaldson.com/wp-content/uploads/2016/10/Donaldson_Storeygard_JEP.pdf)." Journal of Economic Perspectives, 30 (4): 171-98.
