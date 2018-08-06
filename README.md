@@ -24,5 +24,4 @@ Durante el semestre se desarrollará un proyecto de análisis de datos utilizand
 
 ## Recursos externos
 
-Foro Piazza: https://piazza.com/class/jh7oeafx4fa3lp  
 Kattis: https://open.kattis.com/  
