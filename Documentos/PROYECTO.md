@@ -4,7 +4,13 @@
 
 Cada grupo será responsable de crear un "sistema" ("conjunto de rutinas", "procedimientos") que permita presentar algún análisis de información que sea de interés del grupo. Se sugiere usar como información base el Censo de 2017 y/o la encuesta Casen de 2015 o 2017 (fecha probable de publicación Casen 2017: Septiembre 2018), e incorporar otra información de interés del grupo. 
 
-Dentro de los tipos de análisis admitidos se encuentran: evaluación de politicas públicas, análisis de impacto de alguna política, evaluación costo/beneficio de alguna política, análisis de coyuntura macroeconómica, estudio de demanda, estudio de costos, o cualquier otro tipo de estudio que se enmarque dentro del quehacer económico.
+Dentro de los tipos de análisis admitidos se encuentran: evaluación de politicas públicas, análisis de impacto de alguna política, evaluación costo/beneficio, análisis de coyuntura macroeconómica, estudio de demanda, estudio de costos, o cualquier otro tipo de estudio que se enmarque dentro del quehacer económico.
+
+El proyecto se debe hacer cargo, al menos, de las siguientes etapas del análisis de datos: 
+1. Carga / lectura
+1. Pre-procesamiento y almacenamiento
+1. Procesamiento y análisis
+1. Presentación y visualización
 
 Los grupos estarán conformados por un máximo de 3 personas. 
 
@@ -64,18 +70,16 @@ Además de la presentación, deberá entregar un informe con los detalles del pr
 ### Ideas de otras fuentes de información
 
 - Municipalidades
-- Prensa
-- Redes sociales
+- Prensa o redes sociales
 - Entidades gubernamentales
-- Otros Censos o encuestas (e.g. Casen; EPS; EFH)
+- Congreso
+- Otros Censos o encuestas (e.g. CEP, EPS; EFH)
 
-### Topicos posibles
+### Algunas ideas de tópicos posibles
 
 - Migración
 - Educación
-- Vivienda
-- Movimiento social
-- Cambios demográficos
-- Reformas regionalización
-- Fertilidad
-- Grupos familiares
+- Análisis coyuntura macro
+- Predicción inflación
+- Estudio spread acciones
+- Análisis de sentimiento
