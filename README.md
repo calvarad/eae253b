@@ -9,7 +9,7 @@ Email: cealvara@uc.cl
 
 Ayudante: Pablo González Valdivia  
 Horario ayudantía: W // 5.00pm a 6.20pm  
-Office hours ayudante: Coodinar por email  
+Office hours ayudante: Coordinar por email  
 Email: pagonzalez20@uc.cl  
 
 ## Programa
