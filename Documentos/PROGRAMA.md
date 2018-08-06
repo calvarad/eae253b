@@ -24,7 +24,7 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 | 3 (21 y 23 agosto)        | Datos estructurados                           | J23: Entrega Borrador de propuesta |
 | 4 (28 y 30 agosto)        | Datos estructurados                           | J30: Entrega T2 (20) |
 | 5 (4 y 6 septiembre)      | Datos no estructurados                        | |
-| 6 ()                      | *SEM. PRUEBAS*                                | *W12: Reuniones cortas* |
+| 6 ()                      | *SEM. PRUEBAS*                                | *W12: Reuniones proyecto* |
 | 7 (20 septiembre)         | Bases de datos                                | |
 | 8 (25 y 27 septiembre)    | Bases de datos                                | M25: Entrega T3 (30); J27: Propuesta formal |
 | 9 (2 y 4 octubre)         | Bases de datos                                | **J4: Presentaciones** |
@@ -32,7 +32,7 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 | 11 (16 y 18 octubre)      | Aplicaciones                                  | J18: Entrega T4 (30) |
 | 12 (23 octubre)           | Aplicaciones  (*SEM. PRUEBAS (J a +1W)*)      | |
 | 13 (31 octubre)           | Prueba escrita (miércoles 31, hora A)         | W31: Prueba Escrita |
-| 14 (6 y 8 noviembre)      | Machine Learning                              | *W7: Reuniones cortas* |
+| 14 (6 y 8 noviembre)      | Machine Learning                              | *W7: Reuniones proyecto* |
 | 15 (13 y 15 noviembre)    | POR DEFINIR                                   | |
 | 16 (20 y 22 noviembre)    | POR DEFINIR                                   | |
 | 17 (30 noviembre)         | Presentaciones                                | **Presentaciones** |
