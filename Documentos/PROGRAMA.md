@@ -51,11 +51,11 @@ Habrán 4 tareas de programación y análisis de datos. Las 3 primeras serán IN
 
 ## Requisitos mínimos para rendir examen (presentar proyecto final)
 
-A. Haber sido evaluado en al menos el 50% del porcentaje total del curso sin considerar la ponderación del examen.
+**A. Haber sido evaluado en al menos el 50% del porcentaje total del curso sin considerar la ponderación del examen.**
 
 *Ejemplo: Si el examen del curso tiene una ponderación del 30% del total del curso, el alumno deberá haber sido calificado en al menos un 35% de la ponderación final del curso [= 50% x (1 – 0,3)].*
 
-B. Tener una nota de presentación al examen de al menos 3,0.
+**B. Tener una nota de presentación al examen de al menos 3,0.**
 
 El alumno que no cumpla con los requisitos antes señalados, no tendrá derecho a rendir el examen.
 
