@@ -24,7 +24,7 @@ Durante el semestre se desarrollará un proyecto de análisis de datos utilizand
 
 ## Tareas
 
-[Tareas](Tareas/README.md)
+[Tareas](Tareas/)
 
 ## Prueba
 
