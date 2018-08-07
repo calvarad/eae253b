@@ -22,6 +22,16 @@ Durante el semestre se desarrollará un proyecto de análisis de datos utilizand
 
 [Descripción del proyecto](Documentos/PROYECTO.md)
 
+## Proyecto
+
+## Tareas
+
+[Tareas](Tareas/README.md)
+
+## Prueba
+
+Durante el transcurso del semestre se publicarán ejercicios de práctica para la prueba.
+
 ## Recursos externos
 
 Kattis: https://open.kattis.com/  
