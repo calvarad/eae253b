@@ -18,23 +18,23 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 
 | Semana                    | Contenido                                     | Actividades |
 | -------------             | -------------                                 | ------------- |
-| 1 (7 y 9 agosto)          | Motivación, introducción                      | J9: Entrega T1 (10) |
+| 1 (7 y 9 agosto)          | Motivación, introducción                      | J9: Entrega T1 (0,1*0,25) |
 | 2 (14 y 16 agosto)        | Conceptos de modelamiento computacional I     | |
 | 3 (21 y 23 agosto)        | Datos estructurados                           | J23: Entrega Borrador de propuesta |
-| 4 (28 y 30 agosto)        | Datos estructurados                           | J30: Entrega T2 (20) |
+| 4 (28 y 30 agosto)        | Datos estructurados                           | J30: Entrega T2 (0,3*0,25) |
 | 5 (4 y 6 septiembre)      | Datos no estructurados                        | |
 | 6 ()                      | *SEM. PRUEBAS*                                | *W12: Reuniones proyecto* |
 | 7 (20 septiembre)         | Bases de datos                                | |
-| 8 (25 y 27 septiembre)    | Bases de datos                                | M25: Entrega T3 (30); J27: Propuesta formal |
-| 9 (2 y 4 octubre)         | Bases de datos                                | **J4: Presentaciones** |
+| 8 (25 y 27 septiembre)    | Bases de datos                                | M25: Entrega T3 (0,3*0,25); J27: Propuesta formal |
+| 9 (2 y 4 octubre)         | Bases de datos                                | **J4: Presentaciones**(0,5*0,5) |
 | 10 (9 y 11 octubre)       | Conceptos de modelamiento computacional II    | |
-| 11 (16 y 18 octubre)      | Aplicaciones                                  | J18: Entrega T4 (30) |
+| 11 (16 y 18 octubre)      | Aplicaciones                                  | J18: Entrega T4 (0,3*0,25) |
 | 12 (23 octubre)           | Aplicaciones  (*SEM. PRUEBAS (J a +1W)*)      | |
 | 13 (31 octubre)           | Prueba escrita (miércoles 31, hora A)         | W31: Prueba Escrita |
 | 14 (6 y 8 noviembre)      | Machine Learning                              | *W7: Reuniones proyecto* |
 | 15 (13 y 15 noviembre)    | POR DEFINIR                                   | |
 | 16 (20 y 22 noviembre)    | POR DEFINIR                                   | |
-| 17 (30 noviembre)         | Presentaciones                                | **Presentaciones** |
+| 17 (30 noviembre)         | Presentaciones                                | **Presentaciones**(0,5*0,5) |
 
 ## Evaluaciones
 
@@ -49,7 +49,20 @@ Se evaluará contenido del curso hasta la clase del 23 de octubre.
 #### Tareas (25%)
 Habrán 4 tareas de programación y análisis de datos. Las 3 primeras serán INDIVIDUALES, mientras que la cuarta se podrá realizar en parejas. Cada alumno podrá, como máximo, retrasarse 2 días en la entrega de tareas.
 
+## Requisitos mínimos para rendir examen (presentar proyecto final)
 
+A. Haber sido evaluado en al menos el 50% del porcentaje total del curso sin considerar la ponderación del examen.
+
+*Ejemplo: Si el examen del curso tiene una ponderación del 30% del total del curso, el alumno deberá haber sido calificado en al menos un 35% de la ponderación final del curso [= 50% x (1 – 0,3)].*
+
+B. Tener una nota de presentación al examen de al menos 3,0.
+
+El alumno que no cumpla con los requisitos antes señalados, no tendrá derecho a rendir el examen.
+
+El alumno que por no cumplir requisitos no pueda rendir el examen y tenga nota de presentación inferior a 4,0, se le mantendrá la nota de presentación como calificación final del curso. Si por el contrario, el alumno tiene una nota de presentación igual o mayor a 4,0 y no pueda rendir el examen por no cumplir con el punto 1 antes señalado, será calificado con una nota final en el curso de 3,9.
+
+En cualquier caso, independientemente de las justificaciones que pueda tener un alumno, ningún examen puede tener una ponderación superior a 70% de la nota final. Si por cualquier motivo la ponderación del examen supera el 70%, el exceso sobre 70% se califica con nota 1,0.
+ 
 ## Lecturas obligatorias
 **Semana 2**
 - Wing, Jeannette M. (2006). “[Computational Thinking](http://www.cs.cmu.edu/~./15110-s13/Wing06-ct.pdf)”. Communications of the ACM. March 2006/Vol. 49, No. 3
