@@ -22,8 +22,6 @@ Durante el semestre se desarrollará un proyecto de análisis de datos utilizand
 
 [Descripción del proyecto](Documentos/PROYECTO.md)
 
-## Proyecto
-
 ## Tareas
 
 [Tareas](Tareas/README.md)
