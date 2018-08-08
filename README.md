@@ -1,6 +1,6 @@
-# Economía y Ciencia de los Datos (EAE253B)
+# Economía y Ciencia de Datos (EAE253B)
 
-Este repositorio contiene material de curso EAE253B "Economía y Ciencia de los Datos", de la Escuela de Economía de la Universidad Católica de Chile, II semestre de 2018.
+Este repositorio contiene material de curso EAE253B "Economía y Ciencia de Datos", de la Escuela de Economía de la Universidad Católica de Chile, II semestre de 2018.
 
 Profesor: Carlos Alvarado  
 Horario clase: M - J // 5.00pm a 6.20pm  
@@ -21,6 +21,14 @@ Email: pagonzalez20@uc.cl
 Durante el semestre se desarrollará un proyecto de análisis de datos utilizando diversas herramientas aprendidas en el curso.
 
 [Descripción del proyecto](Documentos/PROYECTO.md)
+
+## Tareas
+
+[Tareas](Tareas/)
+
+## Prueba
+
+Durante el transcurso del semestre se publicarán ejercicios de práctica para la prueba.
 
 ## Recursos externos
 
