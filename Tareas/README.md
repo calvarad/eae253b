@@ -2,7 +2,7 @@
 
 Aquí se publicarán los enunciados de las tareas del curso.
 
-[Tarea 1](/Tarea 1)
+[Tarea 1](Tarea 1/)
 
 [Tarea 2]
 
