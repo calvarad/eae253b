@@ -12,6 +12,10 @@ Horario ayudantía: W // 5.00pm a 6.20pm
 Office hours ayudante: Coordinar por email  
 Email: pagonzalez20@uc.cl  
 
+## Clases
+
+[Clases](Clases/)
+
 ## Programa
 
 [Programa](Documentos/PROGRAMA.md)
