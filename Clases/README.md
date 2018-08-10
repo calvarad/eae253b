@@ -8,6 +8,10 @@
 
 ### Semana 2
 
+Clase X: opcional Git
+
+Clase X: Control de sentencias
+
 ### Semana 3
 
 ### Semana 4
