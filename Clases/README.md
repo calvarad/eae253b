@@ -4,7 +4,7 @@
 
 [Clase 1](clase1_20180807): Introducción a Data Science y Economía
 
-[Clase 2](clase2_20180807): Elementos básicos de programación
+[Clase 2](clase2_20180809): Elementos básicos de programación
 
 ### Semana 2
 
