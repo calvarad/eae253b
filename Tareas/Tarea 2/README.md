@@ -47,7 +47,7 @@ Realizar los siguientes ejercicios de Kattis:
 - [Engineering English](https://open.kattis.com/problems/engineeringenglish)
 - [Pet](https://open.kattis.com/problems/pet)
 
-En la carpeta [Material Adicional](Material%20adicional)
+En la carpeta [Material Adicional](Material%20adicional) se encuentran archivos "base"; por favor, utilizar esos archivos base y modificar el código donde se indica.
 
 ### Recursos:
 
