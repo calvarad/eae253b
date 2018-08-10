@@ -5,7 +5,7 @@
 #### Ponderación: 30% total tareas (tareas pondera 25% total curso)
 #### Puntaje máximo: 10 puntos
 
-El objetivo de esta tarea es practicar manejo de datos con Stata y algunos conceptos de programación básicos con Python. Para completar esta tarea se requiere tener instalado algún editor de texto (se recomienda utilizar [Sublime Text 3](https://www.sublimetext.com/3)).
+El objetivo de esta tarea es practicar manejo de datos con Stata y algunos conceptos de programación básicos con Python. Para completar los ejercicios de Kattis, se requiere tener instalado algún editor de texto (se recomienda utilizar [Sublime Text 3](https://www.sublimetext.com/3)).
 
 **NO** se permite entrega grupal para esta tarea; sin embargo, se permite discutir ideas. 
 
@@ -15,7 +15,7 @@ El objetivo de esta tarea es practicar manejo de datos con Stata y algunos conce
 
 #### 1) Exploración datos Censo 2017 (parte 1). 3 puntos.
 
-Replique las tablas 2 y 4 del documento [Síntesis de Resultados Censo 2017](http://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf). Para ello, se ha provisto a Ud. de un pequeño código de limpieza de datos, [AQUI](Material%20adicional/tarea2_aux.do) (para homologar las regiones y comunas de 2017 con las utilizadas en el informe. Ver: https://www.bcn.cl/siit/actualidad-territorial/nueva-region-de-nuble)
+Replique las tablas 2 y 4 del documento [Síntesis de Resultados Censo 2017](http://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf). Para ello, se ha provisto a Ud. de un pequeño código de limpieza de datos, [AQUI](Material%20adicional/tarea2_aux.do) (para homologar las regiones y comunas de 2017 con las utilizadas en el informe... ver: https://www.bcn.cl/siit/actualidad-territorial/nueva-region-de-nuble)
 
 Preguntas:
 1. ¿Qué opina de las explicaciones de la Tabla 2? ¿Cómo las mejoraría?
