@@ -47,6 +47,8 @@ Realizar los siguientes ejercicios de Kattis:
 - [Engineering English](https://open.kattis.com/problems/engineeringenglish)
 - [Pet](https://open.kattis.com/problems/pet)
 
+En la carpeta [Material Adicional](Material%20adicional)
+
 ### Recursos:
 
 - [Datos Censo e ingresos comunales](https://www.dropbox.com/sh/tjgcxm1rg9aba15/AABYeM9EwZva-XXpi74ixRUla?dl=0)
