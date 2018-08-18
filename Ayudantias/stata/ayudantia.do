@@ -35,13 +35,14 @@ version 12
 set more off
 cap log close
 
-global data  "C:\Users\pablo\Desktop\stata\data"
-global junk  "C:\Users\pablo\Desktop\stata\junk"
-global extra "C:\Users\pablo\Desktop\stata\bdalternativa"
+global data  "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\data"
+global junk  "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\junk"
+global extra "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\bdalternativa"
+global log "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\log"
 
 
 //Definimos un log
-cd $log
+cd "$log"
 capture log close // cerramos cualquier log anterior
 log using "ayudantia.log", text replace 
 
@@ -52,10 +53,10 @@ log using "ayudantia.log", text replace
 *  Carga datos (dta y txt)
 * ============================================================================
 
-cd $data
+cd "$data"
 use ucla.dta,clear // Como importar archivo .dta
 import delimited ucla.txt, clear //Como importar archivo .csv o .txt
-
+// insheet using "ucla.txt", tab clear   (para la versión 12)
 
 
 * ============================================================================
@@ -112,9 +113,9 @@ fre admit
 codebook gpa gre rank, compact
 
 * Cómo podemos ir filtrando 
-fre admit if gpa > 3.8
-fre admit if gre>750 & rank<=2
-list if rank!=1 & gpa>=4
+tab admit if gpa > 3.8
+tab admit if gre>750 & rank<=2
+tab admit if rank!=1 & gpa>=4
 
 
 
@@ -273,7 +274,7 @@ display el(b, 1, 2)
 
 
 //Guardamos la base de datos modificada en otra carpeta
-cd $junk
+cd "$junk"
 save "editado.dta", replace //No usar como .csv o .txt
 //saveold "", version(12)  - Sirve para versiones anteriores (como la de la facultad)
 export delimited id admit gre rank using "modificada.txt", delimiter (tab) replace
@@ -294,7 +295,7 @@ exit
 * ============================================================================
 
 //Presentación de datos
-cd $extra
+cd "$extra"
 use "ches.dta",replace // load the data
 br
 
@@ -311,7 +312,7 @@ estimates store m4, title(Model 4)
 esttab m1 m2 m3 m4, ar2 se star(* .05) b(a2) //Imprimir en stata
 
 
-cd $junk
+cd "$junk"
 //Exportamos la tabla.
 esttab m1 m2 m3 m4 using "full_model.rtf", ///
 se rtf r2 ar2 label replace title("Estimated parties' positions on EU integration") nonumbers ///
