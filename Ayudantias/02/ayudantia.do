@@ -35,10 +35,10 @@ version 12
 set more off
 cap log close
 
-global data  "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\data"
-global junk  "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\junk"
-global extra "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\bdalternativa"
-global log "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\stata\log"
+global data  "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\02\data"
+global junk  "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\02\junk"
+global extra "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\02\bdalternativa"
+global log "C:\Users\pablo\Desktop\ayudantia\eae253b\Ayudantias\02\log"
 
 
 //Definimos un log
