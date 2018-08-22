@@ -8,11 +8,15 @@
 
 ### Semana 2
 
-Clase X: opcional Git
+[Ayudantia opcional Git]( https://github.com/calvarad/eae253b/blob/master/Ayudantias/Guia%20Git(Hub).ipynb )
 
-Clase X: Control de sentencias
+[Clase 3](clase3_20180816): Control de sentencias
 
 ### Semana 3
+
+[Clase 4](clase4_20180821): Kattis y listas
+
+[Clase 5](clase5_20180823): Listas y diccionarios
 
 ### Semana 4
 
