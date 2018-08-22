@@ -21,4 +21,5 @@ if __name__ == "__main__":
     r1 = int(linea[0])
     s1 = int(linea[1])
 
-    # COMPLETAR  AQUI
+    # COMPLETAR  AQUI, la idea es que usen la función "get_r2" para 
+    # obtener el valor de r2 (dado r1 y s1), y luego impriman su valor
