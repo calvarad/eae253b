@@ -22,6 +22,19 @@ Preguntas:
 1. ¿Qué opina de las explicaciones de la Tabla 4? ¿Cómo las mejoraría?
 1. Identifique las 10 comunas con más inmigrantes (en términos relativos a la población de la comuna).
 
+
+Ayuda:
+
+Les dejo algunos comandos útiles de Stata para esta parte:
+
+`import delimited "base_datos.csv", delimiter(";")` --> lee una base de datos en formato CSV. Nota: En Stata es relativamente lento leer desde CSV. Es mucho más rápido leer bases de datos en formato ".dta", que es el formato nativo de Stata. Cualquier base de datos en la memoria de Stata se puede guardar con el comando "save" (o "saveold", si queremos compatibilidad con versiones antiguas de Stata).
+
+`generate var1 = 1 if var2 == 10` --> genera una nueva columna llamada "var1" que toma el valor 1 cuando la columna "var2" es igual a 10. En los otros casos, toma un valor por defecto ("."). El "." en Stata se refiere a *missing values*, y en ciertos casos se puede interpretar como el número infinito.
+
+`table categorias, c(sum var1 mean var2)` --> crea una tabla "agregada" para cada valor único de la columna "categorias", donde las funciones de agregación en este caso son "sum" (suma) de la columna "var1", y "mean" (promedio simple) de la columna "var2". Este comando es muy similar al comando "collapse", pero no modifica la base de datos, sino que imprime una tabla formateada en el output de Stata (que luego se puede copiar/pegar en Excel)
+
+
+
 #### 2) Exploración datos Censo 2017 (parte 2). 4 puntos.
 
 El objetivo de esta sección es realizar un pequeño análisis de movilidad social, usando los datos del Censo e información extraida (ya procesada) de la encuesta Casen 2015. En particular, la idea es mirar cómo se ha movido la población respecto de su lugar de nacimiento, y si este movimiento tiene relación con el nivel educacional de las personas.

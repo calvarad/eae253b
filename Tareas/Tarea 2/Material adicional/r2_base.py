@@ -9,14 +9,17 @@ def get_r2(r1, s1):
     según se detalla en descripción del problema
     '''
     
-    #MODIFICAR AQUI
-    r2 = 0
-    #MODIFICAR AQUI
-
+    #MODIFICAR AQUI SEGÚN CORRESPONDA
+    
+    
     return r2
 
 if __name__ == "__main__":
     
     linea = sys.stdin.read()
     
-    #MODIFICAR AQUI
+    r1 = int(linea[0])
+    s1 = int(linea[1])
+
+    # COMPLETAR  AQUI, la idea es que usen la función "get_r2" para 
+    # obtener el valor de r2 (dado r1 y s1), y luego impriman su valor
