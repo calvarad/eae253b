@@ -22,7 +22,7 @@
 
 [Clase 6](clase6_20180828): Listas y diccionarios
 
-[Clase 7](clase7_20180830): Datos no estructurados
+[Clase 7](clase7_20180830): Datos no estructurados (HTML)
 
 ### Semana 5
 
