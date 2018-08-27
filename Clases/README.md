@@ -20,6 +20,10 @@
 
 ### Semana 4
 
+[Clase 6](clase6_20180828): Listas y diccionarios
+
+[Clase 7](clase7_20180830): Datos no estructurados
+
 ### Semana 5
 
 ### Semana 6
