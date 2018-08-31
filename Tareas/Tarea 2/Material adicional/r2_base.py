@@ -16,7 +16,7 @@ def get_r2(r1, s1):
 
 if __name__ == "__main__":
     
-    linea = sys.stdin.read()
+    linea = sys.stdin.read().split()
     
     r1 = int(linea[0])
     s1 = int(linea[1])
