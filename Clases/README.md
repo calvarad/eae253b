@@ -22,15 +22,27 @@
 
 [Clase 6](clase6_20180828): Listas y diccionarios
 
-[Clase 7](clase7_20180830): Datos no estructurados (HTML)
+[Clase 7](clase7_20180830): Funciones y Objetos
 
 ### Semana 5
 
+[Clase 8](clase8_20180904): Datos no estructurados (HTML)
+
+[Clase 9](clase9_20180906): Bases de datos
+
 ### Semana 6
+
+No hay clases
 
 ### Semana 7
 
+[Clase 10](clase10_20180920): Bases de datos
+
 ### Semana 8
+
+[Clase 11](clase11_20180925): Bases de datos
+
+[Clase 11](clase12_20180927): Datos no estructurados (APIs)
 
 ### Semana 9
 
