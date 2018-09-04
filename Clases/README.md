@@ -42,7 +42,7 @@ No hay clases
 
 [Clase 11](clase11_20180925): Bases de datos
 
-[Clase 12](clase12_20180927): Datos no estructurados (APIs)
+[Clase 12](clase12_20180927): Datos no estructurados (Texto y APIs)
 
 ### Semana 9
 
