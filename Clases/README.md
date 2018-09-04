@@ -42,9 +42,13 @@ No hay clases
 
 [Clase 11](clase11_20180925): Bases de datos
 
-[Clase 11](clase12_20180927): Datos no estructurados (APIs)
+[Clase 12](clase12_20180927): Datos no estructurados (APIs)
 
 ### Semana 9
+
+[Clase 13](clase13_20181002): Aplicaciones
+
+Presentaciones Proyectos
 
 ### Semana 10
 
