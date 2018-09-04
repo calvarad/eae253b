@@ -6,6 +6,6 @@ Aquí se publicarán los enunciados de las tareas del curso.
 
 [Tarea 2](Tarea%202/)
 
-Tarea 3
+[Tarea 3](Tarea%203/)
 
 Tarea 4
