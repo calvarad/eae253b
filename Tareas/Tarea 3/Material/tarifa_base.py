@@ -5,9 +5,11 @@ if __name__ == '__main__':
     X = int(sys.stdin.readline().strip())
     N = int(sys.stdin.readline().strip())
     
-    #AQUI DEBEN PROCESAR X y N para calcular el saldo final
+    #AQUI SE DEBEN PROCESAR X y N para calcular el saldo final
     
-    #SE SUGIERE CREAR UNA FUNCION QUE TOME X y N, y entregue el saldo final
+    # OJO QUE, DADO UN N, DEBEN LEER LAS LINEAS RESTANTES DEL ARCHIVO
 
-	#LUEGO, DEBEN IMPRIMIR DICHO SALDO
+    # LUEGO, SE SUGIERE CREAR UNA FUNCION QUE TOME LOS DATOS DEL PROBLEMA, y entregue el saldo final
+
+	# FINALMENTE, SE DEBE IMPRIMIR DICHO SALDO
 
