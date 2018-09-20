@@ -2,7 +2,7 @@
 
 ### Puntaje máximo: 30 puntos
 
-### Entrega: martes 25 de septiembre, antes de clase
+### Entrega: jueves 4 de octubre, antes de clase
 
 ### Actividades:
 
@@ -38,8 +38,6 @@ Realizar los siguientes ejercicios de Kattis:
 - [Tarifa](https://open.kattis.com/problems/tarifa)
 - [Babelfish](https://open.kattis.com/problems/babelfish)
 - [Planting Trees](https://open.kattis.com/problems/plantingtrees)
-
-Tarea%203/Material/g1.PNG
 
 ### Forma de entrega:
 
