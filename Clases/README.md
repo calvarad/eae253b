@@ -28,7 +28,7 @@
 
 [Clase 8](clase08_20180904): Datos no estructurados (HTML)
 
-[Clase 9](clase09_20180906): Bases de datos
+[Clase 9](clase09_20180906): Bases de datos (Stata, Pandas)
 
 ### Semana 6
 
@@ -36,17 +36,17 @@ No hay clases
 
 ### Semana 7
 
-[Clase 10](clase10_20180920): Bases de datos
+[Clase 10](clase10_20180920): Bases de datos (Pandas)
 
 ### Semana 8
 
-[Clase 11](clase11_20180925): Bases de datos
+[Clase 11](clase11_20180925): Bases de datos (SQL)
 
-[Clase 12](clase12_20180927): Datos no estructurados (Texto y APIs)
+[Clase 12](clase12_20180927): Bases de datos (SQL)
 
 ### Semana 9
 
-[Clase 13](clase13_20181002): Aplicaciones
+[Clase 13](clase13_20181002): Datos no estructurados (Texto y APIs)
 
 Presentaciones Proyectos
 
