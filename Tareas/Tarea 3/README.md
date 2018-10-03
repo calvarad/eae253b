@@ -28,7 +28,7 @@ Se le pide a Ud. que:
 1. Replique el gráfico "Porcentaje de personas en situación de pobreza por región en 2017". ([Captura](Material/g2.png))
 1. Replique la tabla "Porcentaje de hogares carentes en indicadores de pobreza multidimensional (2015-2017)" (solo la columna de 2017) (ver variables "hh_d_*"). ([Captura](Material/g3.png))
 1. Identifique las 5 comunas con mayor incidencia de pobreza, y las 5 con menor incidencia (recuerde usar factor de expansión comunal).
-1. Sin conocer cómo se construyó la variable "pobreza", ¿puede diseñar e implementar un algoritmo que le permita determinar qué variable o variables son más relevantes en la construcción de dicha variable?
+1. Sin conocer cómo se construyó la variable "pobreza", ¿puede diseñar e implementar un algoritmo que le permita determinar qué variable o variables fueron más relevantes en la construcción de dicha variable?
 1. Presente una tabla o gráfico analizando los datos de la encuesta, respecto de alguna dimensión que sea de su interés.
 1. Interprete lo que muestra con su tabla o gráfico.
 
