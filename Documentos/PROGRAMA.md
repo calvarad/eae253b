@@ -25,15 +25,15 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 | 5 (4 y 6 septiembre)      | Datos no estructurados                        | |
 | 6 ()                      | *SEM. PRUEBAS*                                | *W12: Reuniones proyecto* |
 | 7 (20 septiembre)         | Bases de datos                                | |
-| 8 (25 y 27 septiembre)    | Bases de datos                                | M25: Entrega T3 (0,3*0,25); J27: Propuesta formal |
-| 9 (2 y 4 octubre)         | Bases de datos                                | **J4: Presentaciones** (0,5*0,5) |
-| 10 (9 y 11 octubre)       | Conceptos de modelamiento computacional II    | |
-| 11 (16 y 18 octubre)      | Aplicaciones                                  | J18: Entrega T4 (0,3*0,25) |
+| 8 (25 y 27 septiembre)    | Bases de datos                                | J27: Propuesta formal |
+| 9 (2 y 4 octubre)         | Bases de datos                                | **J4: Presentaciones** (0,5*0,5) / Entrega T3 (0,3*0,25) |
+| 10 (9 y 11 octubre)       | Conceptos de modelamiento computacional II    | *Reuniones proyecto* |
+| 11 (16 y 18 octubre)      | Aplicaciones                                  | *Reuniones proyecto* |
 | 12 (23 octubre)           | Aplicaciones  (*SEM. PRUEBAS (J a +1W)*)      | |
 | 13 (31 octubre)           | Prueba escrita (miércoles 31, hora A)         | W31: Prueba Escrita (0,25) |
-| 14 (6 y 8 noviembre)      | Machine Learning                              | *W7: Reuniones proyecto* |
+| 14 (6 y 8 noviembre)      | Machine Learning                              | |
 | 15 (13 y 15 noviembre)    | POR DEFINIR                                   | |
-| 16 (20 y 22 noviembre)    | POR DEFINIR                                   | |
+| 16 (20 y 22 noviembre)    | POR DEFINIR                                   | J22: Entrega T4 (0,3*0,25) |
 | 17 (30 noviembre)         | Presentaciones                                | **Presentaciones** (0,5*0,5) |
 
 ## Evaluaciones
