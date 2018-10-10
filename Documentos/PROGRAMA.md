@@ -19,22 +19,22 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 | Semana                    | Contenido                                     | Actividades |
 | -------------             | -------------                                 | ------------- |
 | 1 (7 y 9 agosto)          | Motivación, introducción                      | J9: Entrega T1 (0,1*0,25) |
-| 2 (14 y 16 agosto)        | Conceptos de modelamiento computacional I     | |
+| 2 (14 y 16 agosto)        | Conceptos de modelamiento computacional  	    | |
 | 3 (21 y 23 agosto)        | Datos estructurados                           | J23: Entrega Borrador de propuesta |
 | 4 (28 y 30 agosto)        | Datos estructurados                           | J30: Entrega T2 (0,3*0,25) |
 | 5 (4 y 6 septiembre)      | Datos no estructurados                        | |
 | 6 ()                      | *SEM. PRUEBAS*                                | *W12: Reuniones proyecto* |
 | 7 (20 septiembre)         | Bases de datos                                | |
-| 8 (25 y 27 septiembre)    | Bases de datos                                | M25: Entrega T3 (0,3*0,25); J27: Propuesta formal |
-| 9 (2 y 4 octubre)         | Bases de datos                                | **J4: Presentaciones** (0,5*0,5) |
-| 10 (9 y 11 octubre)       | Conceptos de modelamiento computacional II    | |
-| 11 (16 y 18 octubre)      | Aplicaciones                                  | J18: Entrega T4 (0,3*0,25) |
-| 12 (23 octubre)           | Aplicaciones  (*SEM. PRUEBAS (J a +1W)*)      | |
+| 8 (25 y 27 septiembre)    | Bases de datos                                | J27: Propuesta formal |
+| 9 (2 y 4 octubre)         | Bases de datos                                | **J4: Presentaciones** (0,25*0,5) / Entrega T3 (0,3*0,25) |
+| 10 (9 y 11 octubre)       | Mapas (GIS)								    | *Reuniones proyecto* |
+| 11 (16 y 18 octubre)      | APIs	 		                                | *Reuniones proyecto* |
+| 12 (23 octubre)           | Estadísticas  (*SEM. PRUEBAS (J a +1W)*)      | |
 | 13 (31 octubre)           | Prueba escrita (miércoles 31, hora A)         | W31: Prueba Escrita (0,25) |
-| 14 (6 y 8 noviembre)      | Machine Learning                              | *W7: Reuniones proyecto* |
-| 15 (13 y 15 noviembre)    | POR DEFINIR                                   | |
-| 16 (20 y 22 noviembre)    | POR DEFINIR                                   | |
-| 17 (30 noviembre)         | Presentaciones                                | **Presentaciones** (0,5*0,5) |
+| 14 (6 y 8 noviembre)      | Estadísticas	                                | |
+| 15 (13 y 15 noviembre)    | Machine Learning                              | |
+| 16 (20 y 22 noviembre)    | Big Data y Cierre							    | J22: Entrega T4 (0,3*0,25) |
+| 17 (30 noviembre)         | Presentaciones                                | **Presentaciones** (0,75*0,5) |
 
 ## Evaluaciones
 
