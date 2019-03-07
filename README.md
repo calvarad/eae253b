@@ -7,12 +7,12 @@ Horario clase: M - J // 5.00pm a 6.20pm
 Office hours: M - J // 6.20pm (o coordinar por email)  
 Email: cealvara@uc.cl  
 
-Ayudante: Pablo González Valdivia  
+Ayudante 1: Pablo González Valdivia  
 Horario ayudantía: TBD  
 Office hours ayudante: Coordinar por email  
 Email: pagonzalez20@uc.cl  
 
-Ayudante: TBD  
+Ayudante 2: TBD  
 Horario laboratorio: W // 10.00am a 11.20am  
 Office hours ayudante: Coordinar por email  
 Email: TBD
@@ -35,6 +35,7 @@ Durante el transcurso del semestre se publicarán ejercicios de práctica para l
 
 ## Recursos externos
 
-Kattis: https://open.kattis.com/  
+Google Colab: https://colab.research.google.com/  
+Anaconda: https://www.anaconda.com/downloads/  
 Stack Overflow: https://stackoverflow.com/  
-Anaconda: https://www.anaconda.com/downloads  
+Kattis: https://open.kattis.com/  
