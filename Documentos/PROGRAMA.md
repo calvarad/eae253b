@@ -2,7 +2,7 @@
 
 ## Descripción del curso
 
-Este curso busca que el alumno aprenda herramientas cuantitativas de análisis empírico y modelamiento computacional en Economía, potenciando el uso de herramientas computacionales como Stata y Python. Además de profundizar en particularidades de estas herramientas, el curso abarca principios generales del análisis cuantitativo computacional, lo que permitirá a los alumnos desarrollar análisis más eficientes y efectivos a problemas diversos en Economía.
+Este curso busca que el alumno aprenda herramientas cuantitativas de análisis empírico y modelamiento computacional en Economía, potenciando el uso de herramientas computacionales como Python. Además de profundizar en particularidades de estas herramientas, el curso abarca principios generales del análisis cuantitativo computacional, lo que permitirá a los alumnos desarrollar análisis más eficientes y efectivos a problemas diversos en Economía.
 
 ## Objetivos de aprendizaje
 
@@ -18,11 +18,11 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 
 ## Evaluaciones
 
-#### Laboratorios (50%)
+#### Laboratorios (60%)
 
-#### Prueba (25%)
+#### Prueba (20%)
 
-#### Examen (30%)
+#### Examen (20%)
 
 ## Requisitos mínimos para rendir examen (presentar proyecto final)
 

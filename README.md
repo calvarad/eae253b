@@ -29,9 +29,9 @@ Email: TBD
 
 [Laboratorios](Laboratorios/)
 
-## Prueba
+## Prueba y examen
 
-Durante el transcurso del semestre se publicarán ejercicios de práctica para la prueba.
+Durante el transcurso del semestre se publicarán ejercicios de práctica para la prueba y examen.
 
 ## Recursos externos
 
