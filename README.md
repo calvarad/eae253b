@@ -1,16 +1,21 @@
 # Economía y Ciencia de Datos (EAE253B)
 
-Este repositorio contiene material de curso EAE253B "Economía y Ciencia de Datos", de la Escuela de Economía de la Universidad Católica de Chile, II semestre de 2018.
+Este repositorio contiene material de curso EAE253B "Economía y Ciencia de Datos", de la Escuela de Economía de la Universidad Católica de Chile, I semestre de 2019.  
 
 Profesor: Carlos Alvarado  
 Horario clase: M - J // 5.00pm a 6.20pm  
-Office hours: M - J // 6.20pm (o por email)  
+Office hours: M - J // 6.20pm (o coordinar por email)  
 Email: cealvara@uc.cl  
 
 Ayudante: Pablo González Valdivia  
-Horario ayudantía: W // 5.00pm a 6.20pm  
+Horario ayudantía: TBD  
 Office hours ayudante: Coordinar por email  
 Email: pagonzalez20@uc.cl  
+
+Ayudante: TBD  
+Horario laboratorio: W // 10.00am a 11.20am  
+Office hours ayudante: Coordinar por email  
+Email: TBD
 
 ## Clases
 
@@ -20,15 +25,9 @@ Email: pagonzalez20@uc.cl
 
 [Programa](Documentos/PROGRAMA.md)
 
-## Proyecto
+## Laboratorios
 
-Durante el semestre se desarrollará un proyecto de análisis de datos utilizando diversas herramientas aprendidas en el curso.
-
-[Descripción del proyecto](Documentos/PROYECTO.md)
-
-## Tareas
-
-[Tareas](Tareas/)
+[Laboratorios](Laboratorios/)
 
 ## Prueba
 
