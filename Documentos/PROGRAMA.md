@@ -24,7 +24,7 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 
 #### Examen (20%)
 
-## Requisitos mínimos para rendir examen (presentar proyecto final)
+## Requisitos mínimos para rendir examen
 
 **A. Haber sido evaluado en al menos el 50% del porcentaje total del curso sin considerar la ponderación del examen.**
 
