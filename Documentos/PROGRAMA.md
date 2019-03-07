@@ -1,4 +1,4 @@
-# Programa EAE253B -- 2do Semestre 2018
+# Programa EAE253B -- 1er Semestre 2019
 
 ## Descripción del curso
 
