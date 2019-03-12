@@ -35,6 +35,9 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 | 14 (junio 11 - 13)        | Intro a "big data"	                        | Lab 9 (06-12) |
 | 15 (junio 18 - 20)        | Intro a "big data"                            | No hay lab |
 
+
+*Fecha entre [] --> No hay clase*
+
 ## Evaluaciones
 
 #### Laboratorios (60%)
