@@ -12,7 +12,7 @@ Horario ayudantía: TBD
 Office hours ayudante: Coordinar por email  
 Email: pagonzalez20@uc.cl  
 
-Ayudante 2: Alan Rybertt G. 
+Ayudante 2: Alan Rybertt G.  
 Horario laboratorio: W // 10.00am a 11.20am  
 Office hours ayudante: Coordinar por email  
 Email: arybertt@uc.cl
