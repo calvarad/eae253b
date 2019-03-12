@@ -29,12 +29,12 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 | 8 (abril 30 - mayo 2)     | Aplicaciones                                  | No hay lab |
 | 9 (mayo 7 - 9)            | Aplicaciones                                  | Lab 6 (05-08) |
 | 10 (mayo 14 - 16)         | Aplicaciones								    | No hay lab |
-| 11 (mayo [21] - 23)       | Intro a machine learning                      | No hay lab |
+| 11 (mayo [21] - 23)       | Intro a machine learning                      | No hay lab. **PRUEBA (05-23)** |
 | 12 (mayo 28 - 30)         | Intro a machine learning            		    | Lab 7 (05-29) |
 | 13 (junio 4 - 6)          | Intro a machine learning         				| Lab 8 (06-05) |
 | 14 (junio 11 - 13)        | Intro a "big data"	                        | Lab 9 (06-12) |
 | 15 (junio 18 - 20)        | Intro a "big data"                            | No hay lab |
-
+| 17 (julio 04)				| EXAMEN 										| **EXAMEN (07-04)** |
 
 *Fecha entre [] --> No hay clase*
 
