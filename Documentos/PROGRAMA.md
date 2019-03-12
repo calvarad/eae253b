@@ -16,13 +16,32 @@ Este curso busca que el alumno aprenda herramientas cuantitativas de análisis e
 
 ## Calendario (TBD)
 
+| Semana                    | Contenido                                     | Actividades |
+| -------------             | -------------                                 | ------------- |
+| 0 (marzo 7)               | Presentación curso            	            | No hay lab |
+| 1 (marzo 12 - 14)         | Intro a la programación                       | Lab 1 (03-13) |
+| 2 (marzo 19 - 21)         | Intro a la programación  	    				| Lab 2 (03-20) |
+| 3 (marzo 26 - 28)         | Intro a la programación                       | Lab 3 (03-27)  |
+| 4 (abril 2 - 4)           | Intro a la programación                       | No hay lab |
+| 5 (abril 9 - 11)          | Intro a bases de datos                        | No hay lab |
+| 6 (abril 16 - [18])       | Intro a bases de datos                        | Lab 4 (04-17) |
+| 7 (abril 23 - 25)         | Intro a bases de datos                        | Lab 5 (04-24) |
+| 8 (abril 30 - mayo 2)     | Aplicaciones                                  | No hay lab |
+| 9 (mayo 7 - 9)            | Aplicaciones                                  | Lab 6 (05-08) |
+| 10 (mayo 14 - 16)         | Aplicaciones								    | No hay lab |
+| 11 (mayo [21] - 23)       | Intro a machine learning                      | No hay lab |
+| 12 (mayo 28 - 30)         | Intro a machine learning            		    | Lab 7 (05-29) |
+| 13 (junio 4 - 6)          | Intro a machine learning         				| Lab 8 (06-05) |
+| 14 (junio 11 - 13)        | Intro a "big data"	                        | Lab 9 (06-12) |
+| 15 (junio 18 - 20)        | Intro a "big data"                            | No hay lab |
+
 ## Evaluaciones
 
 #### Laboratorios (60%)
 
-#### Prueba (20%)
+#### Prueba (20%) - 23 de mayo de 2019, 5pm.
 
-#### Examen (20%)
+#### Examen (20%) - 4 de julio de 2019, hora A.
 
 ## Requisitos mínimos para rendir examen
 
