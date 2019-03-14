@@ -38,5 +38,5 @@ Durante el transcurso del semestre se publicarán ejercicios de práctica para l
 Google Colab: https://colab.research.google.com/  
 Anaconda: https://www.anaconda.com/downloads/  
 Stack Overflow: https://stackoverflow.com/  
-HackerRank: https://www.hackerrank.com
+HackerRank: https://www.hackerrank.com/  
 Kattis: https://open.kattis.com/  
