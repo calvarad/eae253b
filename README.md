@@ -33,7 +33,7 @@ Email: arybertt@uc.cl
 
 Durante el transcurso del semestre se publicarán ejercicios de práctica para la prueba y examen.
 
-## Recursos externos
+## Recursos externos recomendados
 
 Google Colab: https://colab.research.google.com/  
 Anaconda: https://www.anaconda.com/downloads/  
