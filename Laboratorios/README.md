@@ -4,4 +4,4 @@
 
 [Lab 2](Lab2_20190320/Lab2_20190320.ipynb)
 
-[Lab 3](Lab2_20190327/Lab2_20190327.ipynb)
+[Lab 3](Lab3_20190327/Lab3_20190327.ipynb)
