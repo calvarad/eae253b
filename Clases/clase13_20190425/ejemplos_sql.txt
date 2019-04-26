@@ -1,0 +1,205 @@
+﻿sqlite3 movielens-small.sqlite
+
+sqlite> .schema
+sqlite3 playdata.db
+
+sqlite> .schema
+sqlite> SELECT * FROM metadata;
+sqlite> SELECT * FROM metadata;
+sqlite> sElEcT YeaR from metadata;
+sqlite> select * from metadata where year = 2010;
+sqlite> select * from metadata where nombre = "dos mil once";
+sqlite> select * from metadata where nombre = "Dos mil once";
+sqlite> select year from metadata;
+sqlite> select year, nombre from metadata;
+
+sqlite> .mode columns
+sqlite> .header on
+
+sqlite> select year, nombre, year+5 from metadata;
+sqlite> select year, nombre, year+5 AS futuro from metadata;
+
+sqlite> select * from misdatos;
+sqlite> select count(valor) from misdatos group by year;
+sqlite> select year, count(valor) from misdatos group by year;
+sqlite> select year, count(valor), avg(valor), min(valor), max(valor) from misdatos group by year;
+sqlite> select year, count(valor), avg(valor), min(valor), max(valor) from misdatos group by year order by year desc;
+sqlite> select year, count(valor), avg(valor), min(valor), max(valor) from misdatos group by year order by year;
+sqlite> select year, count(valor), avg(valor), min(valor), max(valor) from misdatos group by year order by year asc;
+
+sqlite> select * from misdatos;
+sqlite> select * from metadata;
+sqlite> select * from misdatos inner join metadata using (year);
+
+sqlite> insert into metadata values (2010, "domidiez");
+sqlite> select * from metadata;
+sqlite> select * from misdatos inner join metadata using (year);
+
+
+(base) C:\Users\carlo\GIT_EAE253B\eae253b\Clases\clase13_20190425>sqlite3 playdata.db
+
+#ejemplo de cross-join
+
+sqlite> select * from misdatos, metadata;
+
+sqlite> select year from misdatos, metadata;
+Error: ambiguous column name: year
+
+sqlite> select misdatos.year from misdatos, metadata;
+sqlite> select nombre from misdatos, metadata;
+
+
+sqlite> ^Z
+
+(base) C:\Users\carlo\GIT_EAE253B\eae253b\Clases\clase12_20190423>sqlite3 movielens-small.sqlite
+
+sqlite> .schema
+CREATE TABLE movies(
+  movieId INTEGER PRIMARY KEY,
+  title TEXT NOT NULL,
+  year INTEGER
+);
+CREATE TABLE genres(
+  genreId INTEGER PRIMARY KEY,
+  genre TEXT NOT NULL
+);
+CREATE TABLE movie_genre(
+  movieId INTEGER,
+  genreId INTEGER,
+  FOREIGN KEY(movieId) REFERENCES movies(movieId),
+  FOREIGN KEY(genreId) REFERENCES movies(genreId),
+  PRIMARY KEY (movieId, genreId)
+);
+CREATE TABLE tags(
+  userId INTEGER,
+  movieId INTEGER,
+  tag TEXT,
+  timestamp TIMESTAMP,
+  FOREIGN KEY(movieId) REFERENCES movies(movieId)
+);
+CREATE TABLE ratings(
+  userId INTEGER,
+  movieId INTEGER,
+  rating REAL,
+  timestamp TIMESTAMP,
+  FOREIGN KEY(movieId) REFERENCES movies(movieId),
+  PRIMARY KEY (userId, movieId)
+);
+sqlite> .mode columns
+sqlite> .header on
+
+sqlite> select * from ratings limit 1;
+
+sqlite> select avg(rating) from ratings group by movieId limit 5;
+
+sqlite> select movieId, avg(rating) from ratings group by movieId limit 5;
+
+sqlite> select movieId, avg(rating) from ratings group by movieId order by avg(rating) desc limit 5;
+
+sqlite> select movieId, avg(rating) from ratings group by movieId order by avg(rating) desc limit 20;
+movieId     avg(rating)
+----------  -----------
+53          5.0
+183         5.0
+301         5.0
+309         5.0
+559         5.0
+702         5.0
+759         5.0
+764         5.0
+820         5.0
+845         5.0
+872         5.0
+876         5.0
+961         5.0
+1312        5.0
+1420        5.0
+1428        5.0
+1450        5.0
+1455        5.0
+1531        5.0
+1543        5.0
+sqlite> select movieId, avg(rating) from ratings group by movieId order by avg(rating) desc limit 30;
+movieId     avg(rating)
+----------  -----------
+53          5.0
+183         5.0
+301         5.0
+309         5.0
+559         5.0
+702         5.0
+759         5.0
+764         5.0
+820         5.0
+845         5.0
+872         5.0
+876         5.0
+961         5.0
+1312        5.0
+1420        5.0
+1428        5.0
+1450        5.0
+1455        5.0
+1531        5.0
+1543        5.0
+1563        5.0
+1575        5.0
+1692        5.0
+1771        5.0
+1819        5.0
+1859        5.0
+1933        5.0
+2086        5.0
+2284        5.0
+2562        5.0
+sqlite> select movieId, avg(rating) from ratings group by movieId order by avg(rating) desc limit 300;
+movieId     avg(rating)
+----------  -----------
+53          5.0
+183         5.0
+301         5.0
+309         5.0
+559         5.0
+702         5.0
+759         5.0
+764         5.0
+820         5.0
+845         5.0
+872         5.0
+876         5.0
+961         5.0
+1312        5.0
+1420        5.0
+1428        5.0
+1450        5.0
+1455        5.0
+1531        5.0
+1543        5.0
+sqlite> select movieId, avg(rating) from ratings group by movieId order by avg(rating) desc limit 10;
+movieId     avg(rating)
+----------  -----------
+
+sqlite> select movieId, avg(rating), count(rating) from ratings group by movieId order by avg(rating) desc limit 10;
+movieId     avg(rating)  count(rating)
+----------  -----------  -------------
+
+sqlite> select movieId, avg(rating), count(rating) from ratings group by movieId having count(rating) > 10 order by avg(rating) desc limit 10;
+movieId     avg(rating)       count(rating)
+----------  ----------------  -------------
+
+
+sqlite> select movieId, title, year, avg(rating), count(rating) from ratings inner join movies using (movieId) group by movieId having count(rating) > 10 order by avg(rating) desc limit 10;
+movieId     title                         year        avg(rating)       count(rating)
+----------  ----------------------------  ----------  ----------------  -------------
+1939        Best Years of Our Lives, The  1946        4.63636363636364  11
+3469        Inherit the Wind              1960        4.54166666666667  12
+858         Godfather, The                1972        4.4875            200
+318         Shawshank Redemption, The     1994        4.4871382636656   311
+1948        Tom Jones                     1963        4.45833333333333  12
+8132        Gladiator                     1992        4.45454545454545  11
+1945        On the Waterfront             1954        4.44827586206897  29
+1147        When We Were Kings            1996        4.4375            16
+926         All About Eve                 1950        4.43421052631579  38
+1217        Ran                           1985        4.42307692307692  26
+
+
