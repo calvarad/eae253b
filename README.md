@@ -14,7 +14,7 @@ Consultas: Coordinar por email
 
 ## Programa
 
-[Programa](Documentos/Programa EAE253b 2 sem 2019.pdf)
+[Programa](Documentos/Programa%20EAE253b%202%20sem%202019.pdf)
 
 ## Laboratorios
 
